@@ -8,7 +8,7 @@ To setup file_renamer:
 one called "input" and one called "output".
 Spelling matters. Make sure they are spelt correctly and are lowercase.
 
-6.) Open VSCode
+6.) Open VSCode and drag the file_renamer folder into it
 7.) Open the .env file and enter your input variables
 8.) Move the files that need to be renamed and that correspond
 to your input variables into the "input" folder
